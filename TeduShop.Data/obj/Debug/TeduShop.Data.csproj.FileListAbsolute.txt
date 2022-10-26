@@ -1,14 +1,2 @@
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
-D:\Study\CSharp\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\Study\CSharp\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.AssemblyReference.cache
-D:\Study\CSharp\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
-D:\Study\CSharp\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
-D:\Study\CSharp\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
-D:\Study\CSharp\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+D:\Study\CSharp\New folder\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.AssemblyReference.cache
+D:\Study\CSharp\New folder\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache

@@ -74,3 +74,7 @@ D:\Study\CSharp\TeduShop\TeduShop.Web\bin\TeduShop.Model.dll.config
 D:\Study\CSharp\TeduShop\TeduShop.Web\bin\TeduShop.Service.pdb
 D:\Study\CSharp\TeduShop\TeduShop.Web\bin\EntityFramework.xml
 D:\Study\CSharp\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.xml
+D:\Study\CSharp\New folder\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.AssemblyReference.cache
+D:\Study\CSharp\New folder\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\New folder\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
+D:\Study\CSharp\New folder\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb

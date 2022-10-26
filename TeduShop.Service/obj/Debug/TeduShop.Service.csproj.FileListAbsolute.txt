@@ -13,3 +13,7 @@ D:\Study\CSharp\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.Core
 D:\Study\CSharp\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CopyComplete
 D:\Study\CSharp\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 D:\Study\CSharp\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+D:\Study\CSharp\New folder\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.AssemblyReference.cache
+D:\Study\CSharp\New folder\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\New folder\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+D:\Study\CSharp\New folder\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb

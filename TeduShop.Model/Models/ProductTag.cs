@@ -12,10 +12,10 @@ namespace TeduShop.Model.Models
     [Table("ProductTags")]
     public class ProductTag : Auditable
     {
-        [Key]
+        [Key, Column(Order = 0)]
         public int ProductID { get; set; }
 
-        [Column(TypeName = "varchar")]
+        [Key, Column(TypeName = "varchar", Order = 1)]
         [MaxLength(50)]
         [Required]
         public string TagID { get; set; }

@@ -11,10 +11,10 @@ namespace TeduShop.Model.Models
     [Table("PostTags")]
     public class PostTag
     {
-        [Key]
+        [Key, Column(Order = 0)]
         public int PostID { get; set; }
 
-        [Column(TypeName = "varchar")]
+        [Key, Column(TypeName = "varchar", Order = 1)]       
         [MaxLength(50)]
         [Required]
         public string TagID { get; set; }
